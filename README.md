@@ -22,4 +22,5 @@ Funciones de acceso a archivos .xlsx según el año al que se quiere acceder, el
 - Función leer_dico0('año') para lectura de años 1988 y 1989.
 - Función leer_dico1('año') para lectura de años entre 1990 y 2016.
 - Función leer_dico2('año') para lectura de años entre 2017 y 2020.
+
 Posee una función que entrega las series de tiempo entre 1988 y 2020 para el Material Particulado 10 y 2.5 en las estaciones de medición Independencia, Parque Ohiggins y Las Condes.
